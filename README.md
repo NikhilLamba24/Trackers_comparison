@@ -1,7 +1,7 @@
 # Trackers_comparison
 It contains systematic comparison of different different trackers available via opencv and all.
 
-#Trackers Evaluation.ipynb contains: 
+**Trackers Evaluation.ipynb contains:** 
 Evaluation of RGB and Thermal videos as per metrics chosen as: 
 RSTE: Root Mean Square Tracking Eroor
 IOU: Intersection over Union
@@ -16,7 +16,7 @@ BOOSTING
 MEDIANFLOW
 CSRT
 
-#DeepSort+Yolov5.ipynb contains:
+**DeepSort+Yolov5.ipynb contains:**
 Systematic and well documented implementation of DeepSort with Yolov5
 And evaluation of this with previous trackers like:
 on RGB and Thermal videos
