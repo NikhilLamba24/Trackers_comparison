@@ -2,7 +2,7 @@
 It contains systematic comparison of different different trackers available via opencv and all.
 
 **Trackers Evaluation.ipynb contains:** 
-Evaluation of RGB and Thermal videos as per metrics chosen as: 
+Evaluation of RGB and Thermal videos as per metrics chosen as:/t 
 RSTE: Root Mean Square Tracking Eroor
 IOU: Intersection over Union
 Precision 
