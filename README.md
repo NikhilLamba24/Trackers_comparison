@@ -1,6 +1,11 @@
 # Trackers_comparison
 It contains systematic comparison of different different trackers available via opencv and all.<br/> 
-https://user-images.githubusercontent.com/46343406/183387787-4beeefba-24a8-42e8-9d72-8a6a8182ff19.mp4
+
+
+https://user-images.githubusercontent.com/46343406/183388196-45300245-765e-43a8-a61f-eb9d74e3fe72.mp4
+
+
+<br/>
 **Trackers Evaluation.ipynb contains:** <br/> 
 Evaluation of RGB and Thermal videos as per metrics chosen as:<br/> 
 RSTE: Root Mean Square Tracking Eroor<br/> 
