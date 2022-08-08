@@ -2,7 +2,7 @@
 It contains systematic comparison of different different trackers available via opencv and all.<br/> 
 
 
-https://user-images.githubusercontent.com/46343406/183388196-45300245-765e-43a8-a61f-eb9d74e3fe72.mp4 <br/>
+https://user-images.githubusercontent.com/46343406/183388196-45300245-765e-43a8-a61f-eb9d74e3fe72.mp4
 ![robustness](https://user-images.githubusercontent.com/46343406/183387332-21f74849-b236-4139-a663-b8a5bc7af328.png)<br/>
 
 **Trackers Evaluation.ipynb contains:** <br/> 
